@@ -1,5 +1,5 @@
-<div class="centered">
-
+<div style="text-align: center;">
+  
 # MINISHELL
 
 ## Hey this is my and @jwillert implementation of the minishell project.
@@ -21,4 +21,4 @@
 
 #### Further information about the project methodology comming out soonish
 
-  </div>
+</div>
