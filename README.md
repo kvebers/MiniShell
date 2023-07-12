@@ -2,7 +2,7 @@
   
 # MINISHELL
 
-#### Hey this is my and @jwillert implementation of the minishell project.
+#### Hey this is my and [@jwillert](https://github.com/jweeeezy) implementation of the minishell project.
 
 #### Results of the tester by [@Zstenger93](https://github.com/zstenger93/42_minishell_tester)
 
