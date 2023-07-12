@@ -4,7 +4,7 @@
 
 #### Hey this is my and @jwillert implementation of the minishell project.
 
-#### Results of the tester by @Zstenger93: https://github.com/zstenger93/42_minishell_tester
+#### Results of the tester by [@Zstenger93](https://github.com/zstenger93/42_minishell_tester)
 
 #### Normal Mode mstest m
 <img width="721" alt="Screen Shot 2023-06-13 at 1 33 34 PM" src="https://github.com/kvebers/MiniShell/assets/49612380/f06b99cc-0a7e-4397-8c6a-26911fd2b6c9">
